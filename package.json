@@ -1,0 +1,8 @@
+{
+  "name": "sharing4react",
+  "version": "0.0.1",
+  "description": "Social media sharing for React.",
+  "main": "index.js",
+  "author": "luawang",
+  "license": "MIT"
+}
